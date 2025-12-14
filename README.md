@@ -1,0 +1,1 @@
+Custom-designed embedded system PCB featuring a 16×2 LCD interface, relay control module, onboard power regulation, and multiple GPIO headers. The board is designed for easy integration with microcontrollers, supporting sensor inputs and actuator control in automation and monitoring applications. Includes compact layout and enclosure-friendly design.
